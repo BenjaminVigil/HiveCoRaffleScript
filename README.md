@@ -4,4 +4,6 @@ This simple Javascript puppeteer script will run a headless instance of Chrome a
 
 The script utilizes proxies and works with either IP or User:Pass authenticated proxies.
 
-You will need Node installed in order to run the script.
+Modify the JS file where there are comments to input your info and raffle.
+
+You will need Node and Puppeteer installed in order to run the script.
